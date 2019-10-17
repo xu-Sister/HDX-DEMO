@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDX DEMO", "HDX DEMO\HDX DEMO.csproj", "{8C81C384-2284-42FD-AF0C-3BC2CF3CCB21}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HDXSetup", "HDXSetup\HDXSetup.vdproj", "{7EE40CC5-17E5-48ED-8A01-B5E198818673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallDB", "InstallDB\InstallDB.csproj", "{CBB68D35-58B2-49D1-B289-C550287203D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C81C384-2284-42FD-AF0C-3BC2CF3CCB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C81C384-2284-42FD-AF0C-3BC2CF3CCB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C81C384-2284-42FD-AF0C-3BC2CF3CCB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C81C384-2284-42FD-AF0C-3BC2CF3CCB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE40CC5-17E5-48ED-8A01-B5E198818673}.Debug|Any CPU.ActiveCfg = Debug
+		{7EE40CC5-17E5-48ED-8A01-B5E198818673}.Release|Any CPU.ActiveCfg = Release
+		{CBB68D35-58B2-49D1-B289-C550287203D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB68D35-58B2-49D1-B289-C550287203D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB68D35-58B2-49D1-B289-C550287203D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB68D35-58B2-49D1-B289-C550287203D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8FB9A93-5ACC-4AAC-BCD3-FD979BB961EC}
+	EndGlobalSection
+EndGlobal
